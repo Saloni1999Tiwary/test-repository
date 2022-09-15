@@ -1,0 +1,44 @@
+h1 {
+    color: white;
+    background-color: black;
+    font-size: 40px;
+    text-decoration:underline;
+    font-family: sans-serif;
+    text-align: center;
+
+
+}
+p {
+    color: gray;
+    text-align: center;
+    line-height: 30px;
+    letter-spacing: 2px;
+    column-count: 1;
+
+} 
+ul{
+    border-width: 4px;
+    border-style: solid;
+    border-color: greenyellow;
+    /*border: 4px solid greenyellow*/
+   
+    border-left: 8px dashed black;
+    border-top: 4px dotted black;
+    
+
+}
+li{
+    list-style-type: square;
+   text-shadow: 2px 2px lightcyan;
+   /*hex codes can also be used #E9E9E9 000000 all black and 
+   ffffff all white*/
+   /* padding inside border 
+   margin outside border of elements
+   the inline can have all padding but only left and right margin
+wheras the block level we can have it all over*/
+}
+
+
+
+
+
